@@ -1,0 +1,4 @@
+-keepattributes SourceFile,LineNumberTable
+-keep class org.lifeline.emergencyassistant.data.** { *; }
+-keep class org.lifeline.emergencyassistant.pack.** { *; }
+-keepclassmembers class * extends java.lang.Enum { *; }

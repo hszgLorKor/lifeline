@@ -1,0 +1,11 @@
+{
+ "language": "fr",
+ "packSchemaVersion": 1,
+ "reviewStatus": "UNREVIEWED",
+ "signOff": {
+  "status": "Pending",
+  "reviewer": null,
+  "date": null,
+  "notes": "Requires native speaker with medical competence (owner launch gate 14-B)"
+ }
+}
