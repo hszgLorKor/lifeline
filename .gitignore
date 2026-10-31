@@ -4,6 +4,3 @@ app/build/
 local.properties
 *.iml
 .idea/
-captures/
-.externalNativeBuild/
-.cxx/
